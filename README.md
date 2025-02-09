@@ -93,7 +93,7 @@ My name is Sviatoslav,  I am a QA Engineer
 <br>
 
 ## 🤝 Contact
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](lew5333@gmail.com)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:lew5333@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/SviatoslavLM)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
