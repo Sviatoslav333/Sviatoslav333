@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Sviatoslav,  I am QA Engineer
+My name is Sviatoslav,  I am a QA Engineer
 
 ## 📊 Статистика
 
