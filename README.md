@@ -86,8 +86,8 @@ My name is Sviatoslav,  I am QA Engineer
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/certificate.png)
-[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="certificate»">](https://https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/certificate.png)
+[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="SQL»">](https://https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/SQLcodefinity.png)
 
 <br>
 <br>
