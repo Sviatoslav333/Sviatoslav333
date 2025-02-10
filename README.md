@@ -78,18 +78,16 @@ My name is Sviatoslav,  I am a QA Engineer
 <br>
 
 ## 🪴 Practice and internship
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+# [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
+[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="SQL»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/SQLcodefinity.png)
+
+<br>
 
 <br>
 
 ## 🎒 Education
 [<img src="/certificate.png" width="280px" hspace="10px" alt="certificate»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/certificate.png)
-[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="SQL»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/SQLcodefinity.png)
 
-<br>
 <br>
 
 ## 🤝 Contact
