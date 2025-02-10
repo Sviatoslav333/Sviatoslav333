@@ -74,21 +74,20 @@ My name is Sviatoslav,  I am a QA Engineer
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
-<br>
-
-## 🪴 Practice and internship
-# [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="SQL»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/SQLcodefinity.png)
-
-<br>
-
 <br>
 
 ## 🎒 Education
 [<img src="/certificate.png" width="280px" hspace="10px" alt="certificate»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/certificate.png)
 
 <br>
+
+<br>
+
+## 🪴 Practice and internship
+[<img src="/SQLcodefinity.png" width="280px" hspace="10px" alt="SQL»">](https://raw.githubusercontent.com/Sviatoslav333/Sviatoslav333/refs/heads/main/SQLcodefinity.png)
+
+<br>
+
 
 ## 🤝 Contact
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:lew5333@gmail.com)
